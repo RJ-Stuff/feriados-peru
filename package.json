@@ -1,0 +1,22 @@
+{
+	"name": "feriados-peru",
+	"version": "0.0.1",
+	"description": "Feriados Perú",
+	"devDependencies": {
+		"@types/node": "^10.5.4",
+		"ts-node": "^7.0.0",
+		"typescript": "^3.0.1"
+	},
+	"dependencies": {},
+	"scripts": {
+		"test": "ts-node test/test.ts",
+		"build": "tsc"
+	},
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"author": "Rigoberto L. Salgado Reyes",
+	"repository": {
+		"type": "git",
+		"url": "git@104.41.51.128:digevo-ai/digevo-logger.git"
+	}
+}
