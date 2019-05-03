@@ -1,6 +1,6 @@
 {
 	"name": "feriados-peru",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Feriados Perú",
 	"devDependencies": {
 		"@types/node": "^10.5.4",
